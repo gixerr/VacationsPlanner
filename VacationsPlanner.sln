@@ -13,6 +13,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".github", ".github", "{FF56
 		.github\workflows\test.yml = .github\workflows\test.yml
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VacationsPlanner.UnitTests", "test\VacationsPlanner.UnitTests\VacationsPlanner.UnitTests.csproj", "{F1C53553-416C-4826-8017-E08C475D7D7B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -26,6 +28,10 @@ Global
 		{4C13A9B3-9478-45BE-B595-05C987377660}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4C13A9B3-9478-45BE-B595-05C987377660}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4C13A9B3-9478-45BE-B595-05C987377660}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1C53553-416C-4826-8017-E08C475D7D7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1C53553-416C-4826-8017-E08C475D7D7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1C53553-416C-4826-8017-E08C475D7D7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1C53553-416C-4826-8017-E08C475D7D7B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{4C13A9B3-9478-45BE-B595-05C987377660} = {FA0E9ADD-DEB8-4161-8BFD-D8F998D8F23B}
