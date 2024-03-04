@@ -9,8 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VacationsPlanner.Core", "sr
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".github", ".github", "{FF56A40C-541C-4936-98FC-DD02251928B8}"
 	ProjectSection(SolutionItems) = preProject
-		.github\workflows\build.yml = .github\workflows\build.yml
-		.github\workflows\test.yml = .github\workflows\test.yml
+		.github\workflows\dotnet.yml = .github\workflows\dotnet.yml
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VacationsPlanner.UnitTests", "test\VacationsPlanner.UnitTests\VacationsPlanner.UnitTests.csproj", "{F1C53553-416C-4826-8017-E08C475D7D7B}"
